@@ -1,9 +1,1 @@
-package.json
-{
-  "name": "my-app",
-  "version": "1.0.0",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "dependencies": {}
-}
+
